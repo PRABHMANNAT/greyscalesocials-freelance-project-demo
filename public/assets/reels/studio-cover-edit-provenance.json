@@ -1,0 +1,22 @@
+{
+  "type": "Original concept motion edit composed from authentic public reel cover images",
+  "sourceManifest": "/assets/asset-manifest.json",
+  "inputs": [
+    "/assets/thumbnails/countryside-01.jpg",
+    "/assets/thumbnails/galini-01.jpg",
+    "/assets/thumbnails/lovely-sweets-02.jpg",
+    "/assets/thumbnails/kesar-01.jpg",
+    "/assets/thumbnails/golden-sarovar-01.jpg",
+    "/assets/thumbnails/lovely-sweets-01.jpg",
+    "/assets/thumbnails/countryside-02.jpg",
+    "/assets/thumbnails/spicy-hut-01.jpg",
+    "/assets/thumbnails/countryside-03.jpg"
+  ],
+  "durationSeconds": 11,
+  "dimensions": [
+    1280,
+    720
+  ],
+  "audio": false,
+  "restriction": "Private demonstration. This is animated cover imagery, not the studio's original reel footage."
+}

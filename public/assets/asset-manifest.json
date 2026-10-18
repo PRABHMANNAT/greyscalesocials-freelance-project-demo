@@ -1,0 +1,31 @@
+{
+  "researched_on": "2026-10-18",
+  "profile": "https://www.instagram.com/greyscalesocials.in/",
+  "scope": "Client portfolio concept for a local demonstration. Source archived on GitHub at the repository owner's request; no production website deployed. Public covers downloaded through the browser's normal media download. No authentication or platform restriction bypass. Third-party media rights remain with their respective owners.",
+  "limitations": "Original posts and reel footage require Instagram login. No original video footage acquired. The local studio-cover-edit.mp4 is an explicitly labelled concept motion composition made from the original cover images. Covers are 360/361 x 640. No complete case studies or verified results are claimed.",
+  "assets": [
+    {"file":"brand/instagram-profile-mark.jpg","source_url":"https://www.instagram.com/greyscalesocials.in/","media_type":"image/jpeg","width":150,"height":150,"intended_use":"40px navigation profile mark"},
+    {"file":"thumbnails/kesar-01.jpg","source_url":"https://www.instagram.com/kesardadhaba/reel/DWOuSOnE_X4/","media_type":"image/jpeg","width":361,"height":640,"intended_use":"Kesar Da Dhaba gallery, hero contact sheet, About editorial frame"},
+    {"file":"thumbnails/kesar-02.jpg","source_url":"https://www.instagram.com/kesardadhaba/reel/DVJMbUjCRZq/","media_type":"image/jpeg","width":360,"height":640,"intended_use":"Kesar Da Dhaba gallery second cover"},
+    {"file":"thumbnails/countryside-01.jpg","source_url":"https://www.instagram.com/countrysidefactoryoutlet/reel/DaO_kc_CiCW/","media_type":"image/jpeg","width":360,"height":640,"intended_use":"Retail gallery and hero contact sheet"},
+    {"file":"thumbnails/countryside-02.jpg","source_url":"https://www.instagram.com/countrysidefactoryoutlet/reel/DWOsQ5yiSsd/","media_type":"image/jpeg","width":360,"height":640,"intended_use":"Countryside gallery"},
+    {"file":"thumbnails/countryside-03.jpg","source_url":"https://www.instagram.com/countrysidefactoryoutlet/reel/DV5_RnhgsIM/","media_type":"image/jpeg","width":360,"height":640,"intended_use":"Countryside gallery"},
+    {"file":"thumbnails/countryside-04.jpg","source_url":"https://www.instagram.com/countrysidefactoryoutlet/reel/DT0NgnolEC7/","media_type":"image/jpeg","width":360,"height":640,"intended_use":"Countryside gallery"},
+    {"file":"thumbnails/countryside-05.jpg","source_url":"https://www.instagram.com/countrysidefactoryoutlet/reel/DTnT8fNglVK/","media_type":"image/jpeg","width":360,"height":640,"intended_use":"Countryside gallery"},
+    {"file":"thumbnails/galini-01.jpg","source_url":"https://www.instagram.com/galini_cafe_n_restro/reel/DTabcTYiVcx/","media_type":"image/jpeg","width":360,"height":640,"intended_use":"Hospitality gallery and hero contact sheet"},
+    {"file":"thumbnails/lovely-sweets-01.jpg","source_url":"https://www.instagram.com/lovelysweetsamritsar/reel/Db4p9FliNkp/","media_type":"image/jpeg","width":360,"height":640,"intended_use":"Lovely Sweets gallery"},
+    {"file":"thumbnails/lovely-sweets-02.jpg","source_url":"https://www.instagram.com/lovelysweetsamritsar/reel/DUs0SL3DSDW/","media_type":"image/jpeg","width":360,"height":640,"intended_use":"Food gallery, hero contact sheet and About editorial frame"},
+    {"file":"thumbnails/golden-sarovar-01.jpg","source_url":"https://www.instagram.com/goldensarovarportico/reel/DYXMgJcBZlI/","media_type":"image/jpeg","width":361,"height":640,"intended_use":"Hospitality gallery and hero contact sheet"},
+    {"file":"thumbnails/spicy-hut-01.jpg","source_url":"https://www.instagram.com/spicyhut.asr/reel/DTaYhy8jd3Y/","media_type":"image/jpeg","width":360,"height":640,"intended_use":"Spicy Hut gallery"}
+  ],
+  "fonts": [
+    {"family":"Manrope","source":"https://github.com/sharanda/manrope","local_package":"@fontsource-variable/manrope","license":"SIL Open Font License 1.1","license_file":"brand/Manrope-OFL.txt","intended_use":"Display and supporting typography; locally served with next/font"},
+    {"family":"Instrument Serif","source":"https://github.com/Instrument/instrument-serif","local_package":"@fontsource/instrument-serif","license":"SIL Open Font License 1.1","license_file":"brand/Instrument-Serif-OFL.txt","intended_use":"Editorial display accents; locally served with next/font"}
+  ],
+  "original_design_assets": [
+    {"file":"reels/studio-cover-edit.mp4","source":"Original motion composition generated locally from nine public Instagram covers listed in reels/studio-cover-edit-provenance.json","media_type":"video/mp4","width":1280,"height":720,"duration_seconds":11,"audio":false,"intended_use":"Muted autoplay concept film on Home and Work; not original studio reel footage"},
+    {"file":"hero/studio-cover-edit-poster.jpg","source":"First frame of the locally rendered studio-cover-edit.mp4","media_type":"image/jpeg","width":1280,"height":720,"intended_use":"Reserved-dimension poster before film playback and reduced-motion fallback"},
+    {"file":"src/app/icon.svg","source":"Original text-based concept favicon, created in this repository","media_type":"image/svg+xml","intended_use":"Concept browser favicon; replace with approved vector logo"}
+  ],
+  "missing": ["Approved vector or transparent logo", "8–12 full-resolution campaign visuals", "3–5 original MP4 reels with usage permission", "Studio/team photography", "Approved project descriptions and studio philosophy", "Verified email/phone if desired"]
+}
